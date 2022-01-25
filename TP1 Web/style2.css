@@ -1,0 +1,146 @@
+body {
+	margin: 0px;
+	padding: 0; 
+	background-image :radial-gradient(#c7c7c7 25%, #c7c7c7 74%); 
+	text-align: center;
+}
+li {
+	list-style-type: none;
+
+}
+ul {
+	padding: 0px;
+
+}
+
+h1 {
+	background-image : radial-gradient(#c7c7c7 25%, #c7c7c7 74%); 
+}
+
+ {
+	color: white; /*Couleur de la section*/
+	font-size: 40px; 
+	font-weight: bold; /*La graisse des écrit (gras)*/
+	margin: 0px; /*La propriété margin définit la taille des marges sur les quatre côtés de l'élément. 
+	C'est une propriété raccourcie qui permet de manipuler les autres propriétés de marges : 
+	margin-top, margin-right, margin-bottom et margin-left.*/
+	margin-top: 10px; /*La propriété margin-top définit l'espace vertical pour la marge appliquée en haut de l'élément. 
+	Une valeur négative peut être utilisée.*/
+}
+
+.name {
+	font-size: 30px;
+	color: white;
+}
+
+.firstName {
+	font-size: 30px;
+	color: #c7c7c7;
+	margin: 0px;
+	margin-top: 10px;
+}
+
+.p2 {
+	font-size: 30px;
+	color: #c7c7c7;
+	margin: 0px;
+	margin-top: 10px;
+}
+
+.information {
+	font-size: 20px;
+	color: white;
+}
+
+
+#identity{
+	padding-top: 5px;
+	background-color: #151b29;
+}
+
+.profil{
+	border-radius: 50px;
+	width: 150px;
+	
+	
+}
+
+.section{
+	background-color: white;
+	padding-bottom:  10px;
+
+}
+
+
+
+
+
+.main{
+	height: 1980px; /*Longeur de la section*/
+	width: 800px; 
+	background-color: black; 
+	margin : 20px auto;
+	box-shadow: 5px 7px 15px 8px #b9b6b6;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+
+
+
+.firstPart{
+	text-align: start;
+	margin-left: 50px;
+}
+.secondPart{
+	text-align: start;
+	margin-left: 50px;
+	padding-top: 10px;
+}
+
+.intera{
+	
+text-align: start;
+margin-left: 50px;
+}
+
+
+.langua{
+	text-align: start;
+	margin-left: 50px;
+}
+
+.competences
+{
+	text-align: start;
+	margin-left: 50px;
+}
+
+.graisse{
+	font-weight: bold;
+}
+
+.exp1{
+	text-align: start;
+	margin-left: 50px;
+}
+
+.exp2{
+	text-align: start;
+	margin-left: 50px;
+	padding-top: 10px;
+}
+
+.exp3{
+	text-align: start;
+	margin-left: 50px;
+	padding-top: 10px;
+}
+.graisse1{
+	font-weight: bold;
+
+}
+.espace {
+	font-weight: bold;
+}
+
